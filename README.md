@@ -79,3 +79,10 @@ Este projeto foi desenvolvido pelos seguintes integrantes da equipe Genius:
 - Mateus Cavalcanti
 - Vyktor Felipe
 - João Miguel Freitas
+
+## Storyboard
+![Frame 29](./photos/Frame%2029.jpg)
+![Frame 30](./photos/Frame%2030.jpg)
+![Frame 31](./photos/Frame%2031.jpg)
+![Frame 32](./photos/Frame%2032.jpg)
+![Frame 33](./photos/Frame%2033.jpg)
