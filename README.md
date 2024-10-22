@@ -91,4 +91,4 @@ Este projeto foi desenvolvido pelos seguintes integrantes da equipe Genius:
 ## Justificativa para o Uso de Pair Coding
 
 No desenvolvimento deste projeto, optamos por utilizar a técnica de pair coding (programação em dupla), uma prática ágil que traz diversos benefícios para o processo de desenvolvimento. A abordagem de pair coding envolve dois desenvolvedores trabalhando juntos no mesmo código, onde um atua como o driver (responsável por escrever o código) e o outro como o navigator (que revisa e orienta o código sendo escrito).
- (./photos/img_5936.jpeg)
+![Pair Coding](photos/foto%20em%20dupla.jpeg)
