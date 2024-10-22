@@ -1,6 +1,7 @@
 .cadastro-exercicios {
-  max-width: 600px;
-  margin: 0 auto;
+  max-width: 1000px;
+  width: 500px;
+  margin: 200px auto;
   padding: 20px;
   border: 1px solid #ddd;
   border-radius: 8px;
@@ -40,7 +41,7 @@
 #Cadexercicio {
   width: 100%;
   padding: 12px;
-  background-color: #007bff;
+  background-color: #303030;
   color: white;
   border: none;
   border-radius: 4px;

@@ -1,14 +1,14 @@
   .signup-container {
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     height: 100;
     align-items: center;
     padding: 20px;
-    margin: 150px 100px 80px 650px;
+    margin: 150px auto 0 500px;
     background-size: cover;
     background-position: center;
   }
-  
+
   .signup-form {
     background-color: white;
     padding: 40px;
