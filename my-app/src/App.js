@@ -8,6 +8,9 @@ import ListaExercicio from './components/ListaExercicio';
 import ListaAlunos from './components/ListaAlunos';
 import CadastroAlunos from './components/CadastroAlunos';
 import ListaProfessores from './components/ListaProfessores';
+import CadastroColaborador from './components/CadastroColaborador';
+import CadastroExercicios from './components/CadastroExercicios';
+
 
 function App() {
   return (
@@ -23,6 +26,8 @@ function App() {
         </Routes>
         <Routes>
           <Route path="/cadastroAlunos" element={<CadastroAlunos />} />
+          <Route path="/cadastroColaborador" element={<CadastroColaborador />} />
+          <Route path="/cadastroExercicios" element={<CadastroExercicios />} />          
         </Routes>
       </div>
     </Router>

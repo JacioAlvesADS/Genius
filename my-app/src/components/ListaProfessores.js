@@ -8,7 +8,7 @@ function ListaProfessores() {
             <main className="professores-lista">
                 <div className="texto-lista">
                     <h2 className="text-lista">Lista de colaboradores</h2>
-                    <Link to="/cadastroProfessores">
+                    <Link to="/CadastroColaborador">
                     <button className="btn-lista">Cadastrar novo colaborador</button>
                     </Link>               
                 </div>

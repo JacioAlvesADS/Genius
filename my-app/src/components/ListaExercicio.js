@@ -1,5 +1,7 @@
 import React from "react";
 import '../styles/ListaExercicio.css';
+import { Link } from "react-router-dom";
+
 
 function ListaProfessor() {
     return (
@@ -7,7 +9,9 @@ function ListaProfessor() {
             <main className="exercicios-lista">
                 <div className="texto-lista">
                     <h2 className="text-lista">Lista de Exercicios</h2>
-                    <button className="btn-lista">Cadastrar novo exercicio</button>
+                    <Link to="/CadastroExercicios">
+                        <button className="btn-lista">Cadastrar novo exercicio</button>
+                    </Link>
                 </div>
                 <div className="exercicios">   
                     <ul className="ex-lista">
